@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='House_price_prediction',
+    name='daimond_price_prediction',
     version='0.0.1',
     author='Alok',
     author_email='kalok0575@gmail.com',
